@@ -1,0 +1,12 @@
+# Question Type: Confidentiality
+
+**Document:** [Microsoft DPA](../../../../documentation/Microsoft%20Copilot%20%28individual%29/Microsoft%20DPA.pdf)
+
+| Question | Section Title | Exact Quote |
+|----------|----------------|--------------|
+| Does vendor take measures to keep special categories of personal data secure and confidential, including strict controls and documentation of the access and that only authorised persons have access to those personal data with appropriate confidentiality obligations? Special categories of personal data include: personal data revealing racial or ethnic origin, political opinions, religious or philosophical beliefs, trade-union membership, genetic data, biometric data for uniquely identifying a natural person, data concerning health, data concerning a natural person's sex life or sexual orientation | Data Protection Terms | "Microsoft will ensure that its personnel engaged in the processing of Customer Data, Professional Services Data, and Personal Data (i) will process such data only on instructions from Customer or as described in this DPA, including with regard to transfers of Personal Data to a third country or an international organisation, unless required to do so by Union or Member State law to which Microsoft is subject; in such a case, Microsoft shall inform Customer of that legal requirement before processing, unless that law prohibits such information on important grounds of public interest; (ii) ensure that persons authorised to process the Personal Data have committed themselves to confidentiality or are under an appropriate statutory obligation of confidentiality" |
+| Does vendor keep user input confidential? | N/A | N/A |
+| Does vendor keep user output confidential? | N/A | N/A |
+| Does vendor keep other customer data confidential? | N/A | N/A |
+| Are permitted recipients of confidential information subject to confidentiality obligations? | Data Security | "Microsoft shall provide at least the level of protection required of Microsoft by the applicable Data Protection Requirements." (implied through security obligation) |
+| Is vendor prohibited from disclosing customer data to third party vendor for data processing? | Data Transfers and Location | "Microsoft will ensure that Subprocessors are bound by written agreements that require them to provide at least the level of data protection required of Microsoft by this DPA." |
